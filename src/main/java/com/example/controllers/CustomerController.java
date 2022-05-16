@@ -13,8 +13,8 @@ public class CustomerController {
     public Customer getCustomer() {
         Customer customer = new Customer();
         customer.setId(1L);
-        customer.setFirstName("Egor");
-        customer.setLastName("Skorupich");
+        customer.setFirstName("Kotik");
+        customer.setLastName("Zhena");
         return customer;
     }
 }
